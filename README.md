@@ -1,1 +1,1 @@
-# Git basics project webfejleszto kurzus 01 változtatás
+# Git basics project webfejleszto kurzus 01 változtatás változtatás ujra
